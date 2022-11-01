@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667093216 source:c:\users\amany\desktop\linkedqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LQueue.h"
+
+1667326722 c:\users\amany\desktop\linkedqueue\lqueue.h
+
+1667326765 source:c:\users\amany\desktop\linkedqueue\lqueue.c
+	"LQueue.h"
+
